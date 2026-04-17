@@ -181,17 +181,19 @@ recommendations and comparisons.
 3.  Enter the below details, select the nearest region and select
     **Review + create**.
 
+    -   Resource Group - **@lab.CloudResourceGroup(ResourceGroup1).Name**
+    
     -   Name - +++resource@lab.LabInstance.Id+++
 
     -   Default project name - +++proj@lab.LabInstance.Id+++
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image22.png)
 
-4.  Select **Create** in the next screen.
+5.  Select **Create** in the next screen.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image23.png)
 
-5.  Once the resource is created, select **Go to resource** and then
+6.  Once the resource is created, select **Go to resource** and then
     select **Go to Foundry portal**. This will take you to the
     **Microsoft Foundry** page.
 
@@ -199,25 +201,25 @@ recommendations and comparisons.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image25.png)
 
-6.  Toggle **on** the **New Foundry** option.
+7.  Toggle **on** the **New Foundry** option.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image26.png)
 
-7.  Select **Build** from the top menu since you will be building a new
+8.  Select **Build** from the top menu since you will be building a new
     agent now.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image27.png)
 
-8.  Select **Create agent** to create a new product expert agent.
+9.  Select **Create agent** to create a new product expert agent.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image28.png)
 
-9.  Enter the name of the agent as +++TrailGearExpert+++ and then select
+10.  Enter the name of the agent as +++TrailGearExpert+++ and then select
     **Create**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image29.png)
 
-10. Once the agent is created, enter the below instructions in the
+11. Once the agent is created, enter the below instructions in the
     Instructions areas of the agent and then select **Save**.
 
     ```
@@ -238,22 +240,22 @@ recommendations and comparisons.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image30.png)
 
-11. Select the **Upload files** option -\> **Browse for files**.
+12. Select the **Upload files** option -\> **Browse for files**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image31.png)
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image32.png)
 
-12. Navigate to **C:\Labfiles\Foundry agent**, select all the files
+13. Navigate to **C:\Labfiles\Foundry agent**, select all the files
     under it and select **Open**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image33.png)
 
-13. Select **Attach** to add the files to the agent.
+14. Select **Attach** to add the files to the agent.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image34.png)
 
-14. Once all the configuration is done, select **Save** to save the
+15. Once all the configuration is done, select **Save** to save the
     agent.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image35.png)
