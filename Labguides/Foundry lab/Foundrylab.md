@@ -449,7 +449,7 @@ and configure it to answer queries based on structured data.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image70.png)
 
-5.  Select the Lakehouse - <lh@lab.LabInstance.Id> and select **Add**.
+5.  Select the Lakehouse - +++lh@lab.LabInstance.ID+++ and select **Add**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image71.png)
 
