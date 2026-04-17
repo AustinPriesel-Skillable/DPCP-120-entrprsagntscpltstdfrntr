@@ -319,12 +319,12 @@ agent.
 In this task, you will test the integrated setup to validate that
 product-related queries are correctly routed to the Foundry agent.
 
-1.  Open the Test pane and enter +++Which backpack is best for a 3 day
-    trek?+++ and select **Send**.
+1.  Open the Test pane and enter:
+    `Which backpack is best for a 3 day trek?` then select **Send**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image44.png)
 
-2.  The first time, it will ask to open the **connection manager** and
+3.  The first time, it will ask to open the **connection manager** and
     **connect**. Follow the prompts and create the connection and then
     ask the same question in the Test pane.
 
@@ -338,7 +338,7 @@ product-related queries are correctly routed to the Foundry agent.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image49.png)
 
-3.  From the Activity tab, open the latest activity to see the details
+4.  From the Activity tab, open the latest activity to see the details
     of the chat. You can see that the agent has invoked the
     TrailGearExpert – Foundry agent to answer this question.
 
