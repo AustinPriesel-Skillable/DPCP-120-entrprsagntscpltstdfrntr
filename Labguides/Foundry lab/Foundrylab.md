@@ -184,6 +184,8 @@ recommendations and comparisons.
     -   Resource Group - **@lab.CloudResourceGroup(ResourceGroup1).Name**
     
     -   Name - +++resource@lab.LabInstance.Id+++
+  
+    -   Location - **@lab.CloudResourceGroup(ResourceGroup1).Location**
 
     -   Default project name - +++proj@lab.LabInstance.Id+++
 
