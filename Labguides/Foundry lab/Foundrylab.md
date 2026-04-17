@@ -132,18 +132,19 @@ support and policy-related queries.
 In this task, you will test the agent to validate that it correctly
 retrieves and responds using the configured knowledge sources.
 
-1.  Select the Test pane from the top right and enter +++How long does
-    delivery take to metro cities?+++
+1.  Select the Test pane from the top right and enter:
+
+    `How long does delivery take to metro cities?`
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image16.png)
 
-2.  You can see that the agent replies from the added knowledge source.
+4.  You can see that the agent replies from the added knowledge source.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image17.png)
 
-3.  Try another prompt as below and observe the response
+5.  Try another prompt as below and observe the response
 
-    +++Can I return a product after 7 days?+++
+    `Can I return a product after 7 days?`
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image18.png)
 
