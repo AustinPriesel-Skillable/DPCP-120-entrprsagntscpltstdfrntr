@@ -94,7 +94,7 @@ shipping, returns, and customer support policies.
 10.  Under **Knowledge**, **disable** **Allow ungrounded responses** and
     **Use information from the web** options and then select **Save**.
 
-    ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image8.png)
+     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image8.png)
 
 11. Once the changes are saved, close the Settings pane.
 
