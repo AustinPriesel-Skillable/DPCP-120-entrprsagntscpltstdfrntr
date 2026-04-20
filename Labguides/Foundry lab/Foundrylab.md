@@ -316,10 +316,10 @@ agent, enabling seamless delegation of product-related queries.
 
     - Name - +++TrailGearExpert+++
 
-    - Description - +++A specialized AI agent that provides detailed
+    - Description - `A specialized AI agent that provides detailed
       product knowledge, comparisons, and personalized recommendations
       for outdoor gear including backpacks, tents, and camping
-      accessories.+++
+      accessories.`
 
     - Agent Id - +++TrailGearExpert+++
 
