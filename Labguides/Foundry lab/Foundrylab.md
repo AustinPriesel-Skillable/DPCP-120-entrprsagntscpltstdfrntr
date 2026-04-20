@@ -515,12 +515,12 @@ provide insights based on business data.
 In this task, you will integrate the Fabric Data Agent with the Copilot
 Studio agent to enable real-time data-driven responses.
 
-1.  Select **Agents** tab from the **TrailAssist Concierge** agent in
+1.  In the Copilot studio, Select **Agents** tab from the **TrailAssist Concierge** agent in
     Copilot Studio.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image77.png)
 
-2.  Select **Connect to an external agent** -\> **Microsoft Fabric**.
+2.  Select **+ Add an agent**, **Connect to an external agent** -\> **Microsoft Fabric**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image78.png)
 
@@ -541,7 +541,7 @@ Studio agent to enable real-time data-driven responses.
 
 6.  Enter the below description and select **Add and configure**.
 
-    +++A data-driven AI agent that provides real-time insights on orders, inventory, customer activity, and operational metrics using structured data from Fabric Lakehouse.+++
+    `A data-driven AI agent that provides real-time insights on orders, inventory, customer activity, and operational metrics using structured data from Fabric Lakehouse.`
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image83.png)
 
