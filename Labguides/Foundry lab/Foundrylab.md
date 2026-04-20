@@ -168,7 +168,20 @@ In this task, you will create the **TrailGear Expert** agent in Foundry
 and configure it with product-specific knowledge to enable intelligent
 recommendations and comparisons.
 
-1.  Login to +++https://portal.azure.com/+++ and select **Foundry** from
+>![Alert] In order to successfully build and test this agent, we must **add a role assignment** to your user account in the Azure Portal by completing the following steps:
+>
+> 1. Go to +++https://portal.azure.com/+++, on the homepage select **Subscriptions**.
+> 2. Select your subscription, **@lab.CloudSubscription.Name**
+> 3. On the left hand panel, select **Access Control (IAM)**.
+> 4. Select **+ Add**, **Add Role Assignment**.
+> 5. Search for and select +++Azure AI Administrator+++, then select **Next**.
+> 6. Under the **Members** tab, leave the *Assign access to* as **User, group or service principal**.
+> 7. Select **+ Select Members**
+> 8. Enter your cloud credential username: +++@lab.CloudPortalCredential(User1).Username+++, select your user name and press **Select** to apply.
+> 9. Select **Review and Assign** twice on the bottom of the page and wait for the role assignment to complete.
+
+
+1.  On the Home page of the Azure portal, select **Foundry** from
     the **Home** page.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image20.png)
