@@ -49,11 +49,7 @@ shipping, returns, and customer support policies.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image2.png)
 
-4.  Select **Edit** to edit the details of the agent.
-
-    ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image3.png)
-
-5.  Enter the below description and select **Save**.
+4.  Select **Edit** to edit the details of the agent and enter the below description and select **Save**.
 
     ```
     A customer-facing AI assistant that helps users with
@@ -61,7 +57,8 @@ shipping, returns, and customer support policies.
     with a product specialist agent for recommendations and product-specific
     details.
     ```
-
+    
+    ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image3.png)
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image4.png)
 
