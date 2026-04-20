@@ -45,7 +45,7 @@ shipping, returns, and customer support policies.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image1.png)
 
-3.  Select **Agents** -\> **+ Create blank agent**.
+3.  Select **Agents** -\> **+ Create blank agent**. Enter the name +++TrailAssist Concierge+++
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image2.png)
 
@@ -53,14 +53,12 @@ shipping, returns, and customer support policies.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image3.png)
 
-5.  Enter the below details and select **Save**.
+5.  Enter the below description and select **Save**.
 
-    -   Name – +++TrailAssist Concierge+++
-
-    -   Description - +++A customer-facing AI assistant that helps users with
+    `A customer-facing AI assistant that helps users with
     order support, returns, refunds, and shipping queries while coordinating
     with a product specialist agent for recommendations and product-specific
-    details.+++
+    details.`
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image4.png)
 
