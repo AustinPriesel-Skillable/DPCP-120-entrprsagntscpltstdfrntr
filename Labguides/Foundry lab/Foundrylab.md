@@ -55,19 +55,22 @@ shipping, returns, and customer support policies.
 
 5.  Enter the below description and select **Save**.
 
-    `A customer-facing AI assistant that helps users with
+    ```
+    A customer-facing AI assistant that helps users with
     order support, returns, refunds, and shipping queries while coordinating
     with a product specialist agent for recommendations and product-specific
-    details.`
+    details.
+    ```
+
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image4.png)
 
-6.  Select **Edit** against Instructions to add instructions to the
+7.  Select **Edit** against Instructions to add instructions to the
     agent.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image5.png)
 
-7.  Enter the below instructions and select **Save**.
+8.  Enter the below instructions and select **Save**.
 
     ```
     You are TrailAssist Concierge, a helpful and professional retail assistant for an outdoor gear company.
@@ -87,37 +90,37 @@ shipping, returns, and customer support policies.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image6.png)
 
-8.  Select **Settings** to update the agent’s settings.
+9.  Select **Settings** to update the agent’s settings.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image7.png)
 
-9.  Under **Knowledge**, **disable** **Allow ungrounded responses** and
+10.  Under **Knowledge**, **disable** **Allow ungrounded responses** and
     **Use information from the web** options and then select **Save**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image8.png)
 
-10. Once the changes are saved, close the Settings pane.
+11. Once the changes are saved, close the Settings pane.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image9.png)
 
-11. Back in the Overview page of the agent, select **+ Add knowledge**.
+12. Back in the Overview page of the agent, select **+ Add knowledge**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image10.png)
 
-12. **Browse** for the files, select the files under **C:\Labfiles\MCS
+13. **Browse** for the files, select the files under **C:\Labfiles\MCS
     Agent** and click **Open**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image11.png)
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image12.png)
 
-13. In the next screen, select **Add to agent**.
+14. In the next screen, select **Add to agent**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image13.png)
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image14.png)
 
-14. Ensure that the added documents change to **Ready** state.
+15. Ensure that the added documents change to **Ready** state.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image15.png)
 
