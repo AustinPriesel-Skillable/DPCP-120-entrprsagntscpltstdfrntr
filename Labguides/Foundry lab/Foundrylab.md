@@ -399,7 +399,7 @@ structured datasets required for operational insights.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image56.png)
 
-5.  Enter the Lakehouse name as lh@lab.LabInstance.Id and select
+5.  Enter the Lakehouse name as +++lh@lab.LabInstance.Id+++ and select
     **Create**.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image57.png)
