@@ -493,8 +493,8 @@ and configure it to answer queries based on structured data.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image72.png)
 
-8.  Test the agent with the below question - +++Which products are low
-    in stock?+++ and observe that the agent replies based on the data in
+8.  Test the agent with the below question: `Which products are low
+    in stock?` and observe that the agent replies based on the data in
     the lakehouse.
 
     ![](https://raw.githubusercontent.com/technofocus-pte/entrprsagntscpltstdfrntr/refs/heads/main/Labguides/Foundry%20lab/media/image73.png)
