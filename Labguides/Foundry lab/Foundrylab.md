@@ -168,7 +168,7 @@ In this task, you will create the **TrailGear Expert** agent in Foundry
 and configure it with product-specific knowledge to enable intelligent
 recommendations and comparisons.
 
->![Alert] In order to successfully build and test this agent, we must **add a role assignment** to your user account in the Azure Portal by completing the following steps:
+>[!Alert] In order to successfully build and test this agent, we must **add a role assignment** to your user account in the Azure Portal by completing the following steps:
 >
 > 1. Go to +++https://portal.azure.com/+++, on the homepage select **Subscriptions**.
 > 2. Select your subscription, **@lab.CloudSubscription.Name**
